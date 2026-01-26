@@ -75,6 +75,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Anevicon](https://github.com/rozgo/anevicon) - The most powerful UDP-based load generator, written in Rust.
 - [Finshir](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic generator, written in Rust.
 - [Legion](https://github.com/GoVanguard/legion) - Open source semi-automated discovery and reconnaissance network penetration testing framework.
+- [NullSec Desktop](https://github.com/bad-antics/nullsec-desktop) - A unified GTK desktop application integrating 40+ security tools for reconnaissance, exploitation, wireless, forensics, reverse engineering and social engineering with built-in AI assistant and terminal integration.
 - [Lonkero](https://github.com/bountyyfi/lonkero) - Enterprise-grade web vulnerability scanner with 60+ attack modules, built in Rust for penetration testing and security assessments.
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [RustScan](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
