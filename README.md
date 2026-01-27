@@ -78,6 +78,9 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Lonkero](https://github.com/bountyyfi/lonkero) - Enterprise-grade web vulnerability scanner with 60+ attack modules, built in Rust for penetration testing and security assessments.
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [RustScan](https://github.com/RustScan/RustScan) - Faster Nmap scanning with Rust. Take a 17 minute Nmap scan down to 19 seconds.
+- [feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
+- [nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML templates.
+- [httpx](https://github.com/projectdiscovery/httpx) - Fast and multi-purpose HTTP toolkit for probing web servers.
 - [Boofuzz](https://github.com/jtpereyda/boofuzz) - Fuzzing engine and fuzz testing framework.
 - [monsoon](https://github.com/RedTeamPentesting/monsoon) - Very flexible and fast interactive HTTP enumeration/fuzzing.
 - [Netz](https://github.com/spectralops/netz)- Discover internet-wide misconfigurations, using zgrab2 and others.
@@ -122,6 +125,9 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Lynis](https://cisofy.com/lynis/) - an open source security auditing tool for Linux/Unix.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) - CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on Fail2Ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), uses Grok patterns to parse logs and YAML scenario to identify behaviors. CrowdSec is engineered for modern Cloud / Containers / VM based infrastructures (by decoupling detection and remediation). Once detected, you can remedy threats with various bouncers (firewall block, nginx http 403, Captchas, etc.) while the aggressive IPs can be sent to CrowdSec for curation before being shared among all users to further strengthen the community
 - [wazuh](https://github.com/wazuh/wazuh) - Wazuh is a free and open source XDR platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments. Great tool foor all kind of deployments, it includes SIEM capabitilies (indexing + searching + WUI).
+- [Tracee](https://github.com/aquasecurity/tracee) - Linux runtime security and forensics using eBPF.
+- [Tetragon](https://github.com/cilium/tetragon) - eBPF-based security observability and runtime enforcement from Cilium.
+- [Kubescape](https://github.com/kubescape/kubescape) - Kubernetes security scanner for risk analysis, compliance, and misconfiguration detection.
 
 ### Honey Pot / Honey Net
 
@@ -267,6 +273,12 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Meerkat](https://github.com/TonyPhipps/Meerkat) - PowerShell-based Windows artifact collection for threat hunting and incident response.
 - [Rekall](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
 - [LiME](https://github.com/504ensicsLabs/LiME.git) - Linux Memory Extractor
+- [AVML](https://github.com/microsoft/avml) - Microsoft's Acquire Volatile Memory for Linux - portable memory acquisition tool.
+- [dwarf2json](https://github.com/volatilityfoundation/dwarf2json) - Convert DWARF debug info to Volatility3 Linux symbol tables.
+- [linux-explorer](https://github.com/intezer/linux-explorer) - Easy-to-use live forensics toolbox for Linux endpoints.
+- [AVML](https://github.com/microsoft/avml) - Microsoft's Acquire Volatile Memory for Linux - portable memory acquisition tool.
+- [dwarf2json](https://github.com/volatilityfoundation/dwarf2json) - Convert DWARF debug info to Volatility3 Linux symbol tables.
+- [linux-explorer](https://github.com/intezer/linux-explorer) - Easy-to-use live forensics toolbox for Linux endpoints.
 - [Maigret](https://github.com/soxoj/maigret) - Maigret collect a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.
 
 ## Threat Intelligence
