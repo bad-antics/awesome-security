@@ -221,6 +221,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/) - A malware scanner for Linux designed around the threats faced in shared hosted environments.
 - [LOKI](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
 - [rkhunter](http://rkhunter.sourceforge.net/) - A Rootkit Hunter for Linux
+- [rupurt](https://github.com/bad-antics/rupurt) - Advanced Linux rootkit hunter with 250+ signatures, eBPF analysis, memory forensics, and APT detection. Features real-time monitoring and comprehensive threat intelligence.
 - [ClamAv](http://www.clamav.net/) - ClamAV® is an open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
 
 ### Content Disarm & Reconstruct
