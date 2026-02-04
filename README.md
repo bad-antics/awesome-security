@@ -222,6 +222,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [LOKI](https://github.com/Neo23x0/Loki) - Simple Indicators of Compromise and Incident Response Scanner
 - [rkhunter](http://rkhunter.sourceforge.net/) - A Rootkit Hunter for Linux
 - [ClamAv](http://www.clamav.net/) - ClamAV® is an open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
+- [NullSec Discord Shield](https://github.com/bad-antics/nullsec-discord-shield) - Discord token hardening and anti-theft protection with AES-256-GCM encrypted vault, memory obfuscation, and grabber detection.
 
 ### Content Disarm & Reconstruct
 
